@@ -13,7 +13,8 @@ In volgende lessen zal je deze online shop zien groeien. Voor deze les maken we 
 #### Models
 Deze folder bevat de domein laag. 
 
-![Domein_SportsStore.png](https://webiii.github.io/docs/H05/domein_sportsstore.PNG "Domein")
+
+![Domein_SportsStore.png](https://github.com/WebIII/portal/raw/master/docs/H05/domein_sportsstore.PNG "Domein")
 #### Data
 Deze folder bevat 1 klasse `DataSourceProvider`. De DataSourceProvider heeft drie publieke read-only properties. Ze leveren de IEnumerables aan waarop we met Linq zullen werken. 
 Als je wil zien wat deze properties bevatten kan je de private `Seed` methode raadplegen in deze klasse maar je hoeft in feite geen verdere kennis te hebben van deze klasse om de oefeningen te kunnen maken.
@@ -46,8 +47,9 @@ Je kan jouw uitvoer vergelijken met de voorbeeld uitvoer die hieronder is gegeve
 > De resultaten voor de klanten kunnen afwijken daar voornamen en steden van klanten random worden aangemaakt.
 
 ### Voorbeeld uitvoer
-![Voorbeeld_Uitvoer1.png](https://webiii.github.io/docs/H05/Voorbeeld_Uitvoer.png "Voorbeeld Uitvoer")
-![Voorbeeld_Uitvoer2.png](https://webiii.github.io/docs/H05/Voorbeeld_Uitvoer2.png "Voorbeeld Uitvoer Vervolg")
+![Voorbeeld_Uitvoer1.png](https://github.com/WebIII/portal/raw/master/docs/H05/Voorbeeld_Uitvoer.png "Voorbeeld Uitvoer")
+
+![Voorbeeld_Uitvoer2.png](https://github.com/WebIII/portal/raw/master/docs/H05/Voorbeeld_Uitvoer2.png "Voorbeeld Uitvoer Vervolg")
 
 ### Extra
 1. Pas de klasse `Cart` aan, maak gebruik van expression bodied function members 
